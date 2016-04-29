@@ -10,9 +10,9 @@ First entry. This blog is aimed to be my painting log, place to store ideas, pro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 After ~13hrs I finally managed to finish. Really nice fig, albeit hard to paint due to tiny details, quite different from usual GW stuff that I do, more demanding. It was an opportunity to try some new things:
 
-*  Red, bronze nmm
+*  Red & black nmm
 *  Bronze nmm on old gear at base
-*  Yellow OSL on vambracesblack
+*  Yellow OSL on vambraces
 
 ![front](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caSHJBM3dKemNYYWs)
 ![angle1](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caMHVUYTdCWXFqM00)
