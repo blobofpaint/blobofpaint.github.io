@@ -2,6 +2,7 @@
 layout: post
 tile: "First entry - Reverend healer"
 date: 2016-04-28 23:33:00 +0200
+comments: True
 ---
 First entry. This blog is aimed to be my painting log, place to store ideas, problems, inspiration and random thoughts.
 
