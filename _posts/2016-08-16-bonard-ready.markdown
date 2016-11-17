@@ -1,6 +1,6 @@
 ---
 layout: post
-tile: "Bonard finished"
+title: "Bonard finished"
 date: 2016-08-16 20:31:00 +0200
 comments: True
 ---
