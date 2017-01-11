@@ -18,7 +18,7 @@ I think I'm slowly getting shaping the volumes with light, it's not as boring as
 What I learned:
 
 *  Painting complete part by part forces me to be more clean because of fear of fucking up an already finished fragment. This in effect trains brush control.
-*  Making an effort to properly highlight & blackline small components makes them pop. It's worth it to emphasize and exagerrate the sculpt when it's flat
+*  Making an effort to properly highlight & blackline small components makes them pop. It's worth it to emphasize and exaggerate the sculpt when it's flat
 *  painting every other day even for a little will help to get consistent quality. After a longer break the first 30 minutes is pure struggle to get the right mind flow.
 
 Stuff to improve:
