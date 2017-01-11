@@ -32,7 +32,11 @@ What's next:
 *  first diorama: duel between vampire & vampire huntress. Lots of modelling & basework, probably it will take a lot of time to finish with some other miniatures in-between
 *  sci-fi/cyberpunk version of hasslefree's jade with little display base? Just an idea though, it could change
 
-![1](http://drive.google.com/uc?export=view&id=<idhere>)
+![1](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7cabWdULV8tWGNOMTg)
+![2](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caTU1uc0VEWk12Szg)
+![3](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caOVBmNUdhWmo3eEU)
+![4](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7cad05UNEtfRU9naVk)
+![5](http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caV3RXckxxTl9TV1k)
 
 
 
