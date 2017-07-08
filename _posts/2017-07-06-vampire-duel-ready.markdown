@@ -16,9 +16,9 @@ What was learnt:
 * lightwork on the terrain was fun. Light side could use more orange.
 
 As usual wip shots/movie can be found on my [instagram account](https://www.instagram.com/blobofpaint_minis/)!
+[Cmon link](http://www.coolminiornot.com/415204)
 
-Better photos  & cmon link later!
-![2](https://instagram.fwaw3-1.fna.fbcdn.net/t51.2885-15/e35/19764481_653178091552620_191746834949996544_n.jpg)
+![2](http://www.coolminiornot.com/pics/pics16/img5960b0324bed8.jpg)
 
 Cheers,
 Mateusz
