@@ -7,7 +7,7 @@ comments: True
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Stuff here is based on Figopedia book by JBT, which I highly recommend. You can get it here: [https://shop.battlefield-berlin.de/?](https://shop.battlefield-berlin.de/?content=katalog&action=artikelinfo&artikelid=11162&do=1-show-german_infantry_with_camo_winter_jackets.html).
+Stuff here is based on Figopedia book by JBT, which I highly recommend. You can get it here: [https://shop.battlefield-berlin.de/?](https://shop.battlefield-berlin.de/?).
 
 **Colour contrasts**:
 
