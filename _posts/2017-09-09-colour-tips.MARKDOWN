@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colour & contrast tips"
-date: 2017-09-05 21:30:00 +0200
+date: 2017-09-09 12:30:00 +0200
 comments: True
 ---
 
