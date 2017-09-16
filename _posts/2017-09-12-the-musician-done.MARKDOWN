@@ -14,6 +14,6 @@ It turns out that the bigger the model, the more important is smoothness, which 
 New significant tool for my painting: vallejo airbrush cleaner kicks ass, makes it easier to control paint, slightly extends drying time which will be major for wetblending in the future (thanks for the tip Loler :)).
 
 C&C welcome as always
-![2](http://www.coolminiornot.com/pics/pics16/img5960b0324bed8.jpg)
+![2](http://www.coolminiornot.com/pics/pics16/img59b93cc9c9d9f.jpg)
 
 cheers!
