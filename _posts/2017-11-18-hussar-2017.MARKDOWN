@@ -1,4 +1,3 @@
-# Competition level
 ---
 layout: post
 title: "Hussar 2017 impressions"
