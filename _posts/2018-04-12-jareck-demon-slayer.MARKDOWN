@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jareck, the daemon slayer"
-date: 2017-04-12 11:00:00 +0200
+date: 2018-04-12 11:00:00 +0200
 comments: True
 ---
 
@@ -21,5 +21,5 @@ What to improve:
 
 -- veins on his arms should be subtler, more dilluted turqoise glaze
 
-![1](http://drive.google.com/uc?export=view&id=id=1jT_3YeacxD1i1Oa7I9fAnS3rsSKwMt-1)
+![1](http://drive.google.com/uc?export=view&id=1jT_3YeacxD1i1Oa7I9fAnS3rsSKwMt-1)
 Cheers!
