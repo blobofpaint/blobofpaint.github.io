@@ -13,7 +13,6 @@ compiled from what I think & some online feedback.
 __Sacrifice bust:__
 
 ![1](http://drive.google.com/uc?export=view&id=1xODulbUvyZPiQfOPtwY1He_LcjpkUY2F)
-![2](http://drive.google.com/uc?export=view&id=VZ1gxpgYO2ZkCFxGfIGyjjuw)
 ![3](http://drive.google.com/uc?export=view&id=1M11xxhfEBpSpiLBEsOmniWWrl6Afo0tO)
 ![4](http://drive.google.com/uc?export=view&id=1j6BBfzWJ0vmay7P5VUJ1EbRP_gmc6T0r)
 ![5](http://drive.google.com/uc?export=view&id=19KMWKLlWvrKXgiQQVKPDG1YtmE_iNCW-)
