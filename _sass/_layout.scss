@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid #fffff0;
+    border-bottom: #fffff0;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -17,11 +17,6 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
 }
 
 .site-nav {
@@ -33,7 +28,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #fffff0;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -70,10 +65,6 @@
             }
         }
 
-        .trigger {
-            clear: both;
-            display: none;
-        }
 
         &:hover .trigger {
             display: block;
@@ -191,10 +182,26 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
 }
 
+.post-thumb {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
+.post-container {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    background-color: #272727;
+    border-top: 3px solid #F0F564;
+    border-bottom: 3px solid #F0F564;
+}
+
+.post-container:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
 
 /**
  * Posts

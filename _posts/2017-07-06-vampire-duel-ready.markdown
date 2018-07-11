@@ -2,6 +2,8 @@
 layout: post
 title: "Vampire & huntress duel ready"
 date: 2017-07-06 20:00:00 +0200
+desc: Now that was a long project...
+thumb: http://www.coolminiornot.com/pics/pics16/img5960b0324bed8.jpg
 comments: True
 ---
 

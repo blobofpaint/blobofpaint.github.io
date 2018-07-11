@@ -2,6 +2,8 @@
 layout: post
 tile: "Wood elf highborn primed"
 date: 2016-04-30 09:41:00 +0200
+desc: Wood elf zenithaled
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caekc4SkhwcG92Vm8
 comments: True
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 title: "Eldar shadowseer"
 date: 2016-12-04 13:50:00 +0200
+desc: Keep on learning...
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caZ2ozOEdvcVBoUzQ
 comments: True
 ---
 

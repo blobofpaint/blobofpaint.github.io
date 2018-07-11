@@ -2,6 +2,8 @@
 layout: post
 title: "Bonard finished"
 date: 2016-08-16 20:31:00 +0200
+desc: With lessons learned
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caZUI5Z0ExZ2t3N1U
 comments: True
 ---
 

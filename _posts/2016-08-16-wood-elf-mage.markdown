@@ -2,6 +2,8 @@
 layout: post
 tile: "Wood elf mage"
 date: 2016-08-16 18:31:00 +0200
+desc: Another fast paintjob for my friend's warheim/mordheim wood elves warband
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caUWoxNDU0UGZrOTg
 comments: True
 ---
 

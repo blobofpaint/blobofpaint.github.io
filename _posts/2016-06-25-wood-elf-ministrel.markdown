@@ -2,6 +2,8 @@
 layout: post
 tile: "Wood elf ministrel"
 date: 2016-06-25 11:24:00 +0200
+desc: Quick session with a reaper elf mini
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7cabWZkeG9RMEVZMzQ
 comments: True
 ---
 

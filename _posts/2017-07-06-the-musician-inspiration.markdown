@@ -2,6 +2,8 @@
 layout: post
 title: "The musician - inspiration"
 date: 2017-07-06 16:00:00 +0200
+desc: mental prep before first bust
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caNU9YZ2pyQWdrM3M
 comments: True
 ---
 

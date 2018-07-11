@@ -2,6 +2,8 @@
 layout: post
 title: "Hasslefree's post-apo Jade wip"
 date: 2017-03-10 14:30:00 +0200
+desc: sex workers' future is dark
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caUzdUaExGc000b1E
 comments: True
 ---
 

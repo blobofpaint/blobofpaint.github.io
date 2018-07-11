@@ -2,6 +2,8 @@
 layout: post
 title: "Classic orc shaman"
 date: 2017-01-10 22:10:00 +0200
+desc: Orc shaman, bought at Polcon 2016
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7cabWdULV8tWGNOMTg
 comments: True
 ---
 

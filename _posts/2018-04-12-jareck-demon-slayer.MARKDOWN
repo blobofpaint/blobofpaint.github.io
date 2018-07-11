@@ -2,7 +2,9 @@
 layout: post
 title: "Jareck, the daemon slayer"
 date: 2018-04-12 11:00:00 +0200
+desc: Cool comic style sculpt from Enigma miniatures
 comments: True
+thumb: http://drive.google.com/uc?export=view&id=1jT_3YeacxD1i1Oa7I9fAnS3rsSKwMt-1
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

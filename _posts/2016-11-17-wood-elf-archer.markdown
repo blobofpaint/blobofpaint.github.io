@@ -2,6 +2,8 @@
 layout: post
 title: "Wood elf archer"
 date: 2016-11-18 17:31:00 +0200
+desc: Another speed painted elf from reaper
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caNGxfTW1GWHlYWW8
 comments: True
 ---
 

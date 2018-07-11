@@ -2,6 +2,8 @@
 layout: post
 title: "Sacrifice & penthesilea biker ready"
 date: 2018-06-07 11:00:00 +0200
+desc: "Finally finished sacrifice bust started couple of months ago. Also managed to finish penthesilea bootleg biker - almost a year after receiving it for birthday :)"
+thumb: http://drive.google.com/uc?export=view&id=1YHTHx8R3jzY0_YFeSmVRahJ1dNBfxYJE
 comments: True
 ---
 

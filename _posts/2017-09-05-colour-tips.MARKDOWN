@@ -2,6 +2,8 @@
 layout: post
 title: "Colour & contrast tips"
 date: 2017-09-09 12:30:00 +0200
+desc: Figopedia notes
+thumb: http://drive.google.com/uc?export=view&id=12xcm2F7u9zJDvzdCo8J9bCqers-TgaGE
 comments: True
 ---
 

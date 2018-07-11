@@ -3,6 +3,8 @@ layout: post
 title: "The Musician done"
 date: 2017-09-12 21:30:00 +0200
 comments: True
+desc: First bust I've painted
+thumb: http://www.coolminiornot.com/pics/pics16/img59b93cc9c9d9f.jpg
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

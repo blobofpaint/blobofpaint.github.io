@@ -2,7 +2,9 @@
 layout: post
 title: "Night lords traitor librarian ready!"
 date: 2017-12-03 20:20:00 +0200
+desc: Lessons learned
 comments: True
+thumb: http://drive.google.com/uc?export=view&id=1ZKecWAONxN1-BDFWInOvf_x1vnEloBPa
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

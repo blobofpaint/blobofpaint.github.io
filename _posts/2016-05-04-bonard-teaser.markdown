@@ -2,6 +2,8 @@
 layout: post
 tile: "Bonard teaser"
 date: 2016-05-04 23:00:00 +0200
+desc: Rum n bones bonard wip
+thumb: http://drive.google.com/uc?export=view&id=0B8W6Bk6dW7caOTJ0UEdKVmRyd0k
 comments: True
 ---
 
