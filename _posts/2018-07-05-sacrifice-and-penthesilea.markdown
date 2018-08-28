@@ -49,9 +49,11 @@ the bad:
 - NMM lights are chaotic and incorrect
 - bad fitting of her feet to base, hopefully not visible
 - some edge lines on bike are too thick
+- bike OSL should be more contrasting color (yellow)
+- tires should be more detailed, cuts on base should be more precise
 
 the good:
-- everything looks eye-catchy
+- everything looks eye-catchy. Colors are well balanced - one satured, while rest complements it. Skin is vibrant and not overhelmed by blue of the bike.
 - my most precise work
 - base is kinda nice (compared to my previous work)
 - blending on bike is ok
