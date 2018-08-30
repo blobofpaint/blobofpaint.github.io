@@ -44,6 +44,8 @@ __Penthesilea biker:__
 ![1](http://drive.google.com/uc?export=view&id=1PtlbvDe-EKQonwu6WLxZfFZPYQBJJeVL)
 ![1](http://drive.google.com/uc?export=view&id=1YCqkYFCVnHVaJyHTV33JX6xRJe-eWtFf)
 
+She managed to win miniac painting contest (https://www.youtube.com/watch?v=NbrDofKOTUA&t=266s) and had quite good reception in the internets - seems people like sexy infinity chick models :)
+
 the bad:
 - pants blend with bike - should be beige?
 - NMM lights are chaotic and incorrect
