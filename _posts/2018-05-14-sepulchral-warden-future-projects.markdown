@@ -14,11 +14,9 @@ Bought a box of shadespire skeletons, these are really awsome minis, great sculp
 ![3](http://drive.google.com/uc?export=view&id=1bWi22k6ChDyhWCvj-LG3dO9N6tWqsW2f)
 
 As for future projects, there are some competitions in the later part of the year (online and not), and I intend to participate so in june/july I`ll paint a lot. I've got the sacrifice bust already in progress with skin & cape mostly ready:
-![4](https://scontent-frx5-1.cdninstagram.com/vp/4940cf938631b9e191cd325fd43d48b4/5B99FC9B/t51.2885-15/e35/30593322_174229940071021_2656405889249968128_n.jpg)
+![4](http://drive.google.com/uc?export=view&id=1K1gOXuD719RhHMzv0VBmN10_8jzSbI9u)
 
-And Penthisilea bootleg prepped & ready to be primed:
-![5](https://scontent-frx5-1.cdninstagram.com/vp/3ddbd5ceef1f347be5f1c2980b11dec0/5B9C3DA5/t51.2885-15/e35/30830821_523849421345620_8591020273833082880_n.jpg)
-
+Penthisilea bootleg prepped & ready to be primed.
 I also aim to prepare forgeworld's Iron Circle Battle Automata for warmachine category of Hussar 2018 to try to get honorable mention, but we`ll see how that goes, it will be really complex project painting-wise (NMM + osl planned).
 
 cheers!
