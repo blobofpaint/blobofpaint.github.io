@@ -4,7 +4,7 @@ title: "Shadespire sepulchral warden, future projects"
 date: 2018-05-14 12:00:00 +0200
 desc: Skellies boss, plans for future works
 comments: True
-thumb: ![1](http://drive.google.com/uc?export=view&id=1noxIcxoWcKKZbFSUsbCKPbtFgIiObWOL)
+thumb: http://drive.google.com/uc?export=view&id=1noxIcxoWcKKZbFSUsbCKPbtFgIiObWOL
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
