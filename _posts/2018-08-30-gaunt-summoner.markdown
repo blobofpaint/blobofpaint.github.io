@@ -10,6 +10,8 @@ comments: True
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![1](http://drive.google.com/uc?export=view&id=1XRipxCXNWb-5tTw1yoNCLkG_Vc0cRF3F)
-Preety pleased with this one - probably my nicest color scheme so far. Wasn't aiming for super smooth, so this part is not very good. 
-OSL on the base should be redone because it's too subtle, book pages lack contrast, the fire is the weakest part of the model, 
-the arm holding the book misses some reflections.
+
+I'm preety pleased with this one - probably my nicest color scheme so far. 
+Wasn't aiming for super smooth finish due to time constraints, so this aspect is not very good. 
+OSL on the base should be redone because it's too subtle, book pages lack contrast, the fire is the weakest part of the model &
+the arm holding the book misses some reflections. We'll see how he fares at eavy metal contest :)
