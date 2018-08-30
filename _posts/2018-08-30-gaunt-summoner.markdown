@@ -14,4 +14,4 @@ comments: True
 I'm preety pleased with this one - probably my nicest color scheme so far. 
 Wasn't aiming for super smooth finish due to time constraints, so this aspect is not very good. 
 OSL on the base should be redone because it's too subtle, book pages lack contrast, the fire is the weakest part of the model &
-the arm holding the book misses some reflections. We'll see how he fares at eavy metal contest :)
+the arm holding the dagger misses some reflections from the fire. We'll see how he fares at eavy metal contest :)
