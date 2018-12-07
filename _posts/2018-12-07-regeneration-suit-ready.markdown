@@ -19,13 +19,13 @@ like painted wrinkles on the suit or see-through boob covering cloth. Imitation 
 My only problem with the sculpt is the boobs, the nipples seem to be sculpted to be hidden behind thin scraps of cloth,
 which would cause a large part of boob to be just flat empty space, so I've decided to paint the nipples in different spots,
 to break somehow the unity of surface and add something interesting. Painting ultra small nipples is hard, 
-and I`m not entirely sure they are placed at acceptable place. The see-through parts are just slightly desaturated fleshtone,
-and I`m still wondering if it's not too subtle, tried this for the first time. The parts that I`m actualy glad of, are 
-red OSL & hair. I think the head got some focus thanks to this, the next time I`ll also try to paint eyes first, 
-as I had a lot of problem with it and I`m not entirely content with the effect. The base is the most elaborate thing
+and I'm not entirely sure they are placed at acceptable place. The see-through parts are just slightly desaturated fleshtone,
+and I'm still wondering if it's not too subtle, tried this for the first time. The parts that I'm actualy glad of, are 
+red OSL & hair. I think the head got some focus thanks to this, the next time I'll also try to paint eyes first, 
+as I had a lot of problem with it and I'm not entirely content with the effect. The base is the most elaborate thing
 I've produced so far, it has some flaws of course - I think the idea is nice, but the hands could use more contrast, 
 the pillars could have more aggressive light/dark contrast, also there are some gaps at the top which should have 
-been handled more precisely - well I`ll try to improve on next works. It seems that I'm enjoing painting more with 
+been handled more precisely - well I'll try to improve on next works. It seems that I'm enjoing painting more with 
 each mini recently, can't wait to paint more KD models, it's unfortunate that the 3rd wave with my pinups got delayed again. 
 
 Cya!
