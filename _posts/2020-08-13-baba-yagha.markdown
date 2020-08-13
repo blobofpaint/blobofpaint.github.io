@@ -3,7 +3,7 @@ layout: post
 tile: "Baba Yagha"
 date: 2020-08-13 14:21:00 +0200
 desc: Large bust from Karol Rudyk Art
-thumb: http://drive.google.com/uc?export=view&id=16vNyy2nvdStex1EKC9mxBF0zM8-LUZSB
+thumb: http://drive.google.com/uc?export=view&id=1edglOFb4HgpCFSdKDZp0jBSVd4bV_eJE
 comments: True
 ---
 
