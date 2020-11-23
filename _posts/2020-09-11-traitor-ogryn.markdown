@@ -14,6 +14,8 @@ I think this is my best model so far, at least technique-wise.
 A lot of time went into figuring out the skin (glazing, airbrush glazing, dotted highlights) and painting colorful NMM. I'm glad I took the time with these things. 
 If I had to change something, it would be deeper shadows on brown leather box on his belt and adding some delicate edge highlights on space marine helmet.
 
+Edit: It managed to get 3rd place in 'Eavier Metal fb group 2020 competition in single masters category! 
+
 ![1](http://drive.google.com/uc?export=view&id=1W7fBKJYOiob-M0kpaW2w45bKDIUFv_jn)
 ![2](http://drive.google.com/uc?export=view&id=1oVFmsbaCdCCPY7ByOBtYFBRCtkeG8Pvy)
 ![3](http://drive.google.com/uc?export=view&id=1FzbYRnwjw0kF2FK8bbNr43sqg66NhmyE)
