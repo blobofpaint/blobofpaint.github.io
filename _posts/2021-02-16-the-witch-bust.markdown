@@ -7,6 +7,13 @@ thumb: http://drive.google.com/uc?export=view&id=1-p0T8FY7NqtKhgMsXfueGQ7q_9vsND
 comments: True
 ---
 
+![2](http://drive.google.com/uc?export=view&id=1-p0T8FY7NqtKhgMsXfueGQ7q_9vsNDXf)	
+![3](http://drive.google.com/uc?export=view&id=1xkNVHUxuaOlUYMbi_udA87qSnfBsiY4B)	
+![4](http://drive.google.com/uc?export=view&id=1KCW_wHIjh-CjQAkfbZammH1Y-jjI5fkg)
+![5](http://drive.google.com/uc?export=view&id=1gBYF3CC5FeP1lamBqYXn6KTtuYUN0LNq)
+![6](http://drive.google.com/uc?export=view&id=1BYB8tj6PRSLM8OOyUQtimIJpxF1PLcVG)
+![7](http://drive.google.com/uc?export=view&id=1jaJPM9UWjsNjJRyGxS1eJUfBrYXw91Tc)
+
 This one was painted in under a month, which is reaallly fast for me. I love the sculpt, it has some funny details like small teeth, a snake, nicely sculpted hair.
 I'm quite happy how it turned out, for future self review let's write what went good, and what could be improved...
 
@@ -30,16 +37,6 @@ The plan for next bust
 *  put all base colors, plan the secondary light with airbrush. After that, refine
 *  more airbrush blending, better detail handling: prepare a more elaborate masking solution to help handling this
 *  prepare, read about all solutions before painting the element. I have the literature :)
-
-
-
-
-![2](http://drive.google.com/uc?export=view&id=1-p0T8FY7NqtKhgMsXfueGQ7q_9vsNDXf)	
-![3](http://drive.google.com/uc?export=view&id=1xkNVHUxuaOlUYMbi_udA87qSnfBsiY4B)	
-![4](http://drive.google.com/uc?export=view&id=1KCW_wHIjh-CjQAkfbZammH1Y-jjI5fkg)
-![5](http://drive.google.com/uc?export=view&id=1gBYF3CC5FeP1lamBqYXn6KTtuYUN0LNq)
-![6](http://drive.google.com/uc?export=view&id=1BYB8tj6PRSLM8OOyUQtimIJpxF1PLcVG)
-![7](http://drive.google.com/uc?export=view&id=1jaJPM9UWjsNjJRyGxS1eJUfBrYXw91Tc)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
