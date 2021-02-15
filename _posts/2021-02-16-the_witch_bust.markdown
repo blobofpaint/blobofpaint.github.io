@@ -3,11 +3,10 @@ layout: post
 tile: "The Witch bust"
 date: 2021-02-15 16:21:00 +0200
 desc: A sexy bust from Ignis Art
-thumb: http://drive.google.com/uc?export=view&id=1ZJIsg-U1pjFGBA-8z39qF-eHko5JqnLH
+thumb: http://drive.google.com/uc?export=view&id=1-p0T8FY7NqtKhgMsXfueGQ7q_9vsNDXf
 comments: True
 ---
 
-![1](http://drive.google.com/uc?export=view&id=11gvzluVMRaxxVx_VMYBvygtaGxuQFzMx)   
 ![2](http://drive.google.com/uc?export=view&id=1-p0T8FY7NqtKhgMsXfueGQ7q_9vsNDXf)	
 ![3](http://drive.google.com/uc?export=view&id=1xkNVHUxuaOlUYMbi_udA87qSnfBsiY4B)	
 ![4](http://drive.google.com/uc?export=view&id=1KCW_wHIjh-CjQAkfbZammH1Y-jjI5fkg)
