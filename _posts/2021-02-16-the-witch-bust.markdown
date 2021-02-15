@@ -30,6 +30,7 @@ The bad
 * Shade the belly button more
 *  didn't write down exact recipes, which made it hard to fix mistakes after airbrush stage. This also made me blend the side of face without so much airbrush work and since I didn't have so much patience it shows on closups. Structured approach to blending is required on higher lever works
 *  In general, go darker with shades and lower on highlights on skin on lower parts of the model to ephasise focal point (face) even further
+*  Subtler blacklining of hairline
 
 The plan for next bust
 *  ref pics of all harder elements
