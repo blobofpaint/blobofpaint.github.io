@@ -16,6 +16,7 @@ The good
 *  airbrush smoothing worked, again
 *  first time I've painted hair that look interesting
 *  brave textures in some places. I really like the chest piece weathered look.
+*  snake turned out quite all right. Organic slappy painting suits organic textures well
 
 The bad
 *  didn't take any helpful pics during the paintjob. Grayscale pics would help with the lighting. Value is the same on both cold & light sides of the skin, and a grayscale pic would help to tackle that. I think it would be better with more agressive shades on dark side, together with a terminator line it would be more dramatic. 
