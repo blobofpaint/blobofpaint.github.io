@@ -12,7 +12,7 @@ comments: True
 ![3](http://drive.google.com/uc?export=view&id=1-Oq_hg4m3uxANMVfSjsubdaMng8vIj0k)
 ![4](http://drive.google.com/uc?export=view&id=1wPnFy9Wh3AJKI_X9S4c9u6mR4_zAi0PL)
 
-The aim here was to practice NMM gold. I'm quite happy with milliput-sculpted base & it's painting. What should be improved: just spending more time on blending/sharpness, increase darkness in shadows, especially on lower parts. Increase colour reflections from the base.
+The aim here was to practice NMM gold. I'm quite happy with milliput-sculpted base & it's painting. What should be improved: just spending more time on blending/sharpness, increase darkness in shadows, especially on lower parts. Do quite intense colour reflections from the base to bind mini & base together & increse the overall interest.
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
