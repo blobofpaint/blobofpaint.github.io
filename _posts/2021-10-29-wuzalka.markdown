@@ -1,0 +1,27 @@
+---
+layout: post
+tile: "Wużałka"
+date: 2021-10-29 14:21:00 +0200
+desc: Daughter of the Serpent King
+thumb: http://drive.google.com/uc?export=view&id=1gJU0ixwh_6P9OmCfyvI2puGybyL2nWsV
+comments: True
+---
+
+![1](http://drive.google.com/uc?export=view&id=1gJU0ixwh_6P9OmCfyvI2puGybyL2nWsV) 
+![2](http://drive.google.com/uc?export=view&id=1S5osO-F7Yv9BcB871f-c4wQr5AE0NieV) 
+![3](http://drive.google.com/uc?export=view&id=xwF_Q4fHOKDK4eh1xkCdsJY4d9f-20eq) 
+![4](http://drive.google.com/uc?export=view&id=1dPLuHDig0YKLch0_OB91Tu1H49sdFCpR) 
+![5](http://drive.google.com/uc?export=view&id=1NBGjjGBQTYC0XNvCxc0SHEl3kXsUcO1X) 
+![6](http://drive.google.com/uc?export=view&id=12r6y7intKGKLOSd7H7ruEC3Ee5lGTioA) 
+
+Project goal was to finally experiment with different light sources on larger scale. There are 3: tilted warm spotlight that gives focus to part of face & chest area, colder from above from opposite direction, and finally a green osl from below to make her back more interesting and break up monotony of her back.  
+
+What I learned:
+- keep you basic skin gradient on the pallete at all times, be able to recreate it easily for future blending (record the colours...). Create different variants of this mix depending on lightsource.
+- Kimera yellow ohre needs another colour in the mix to not be chalky
+- terminator blending using aero works, but remember to mask the midtones/highlights
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+Cheers!
