@@ -1,0 +1,62 @@
+---
+layout: post
+tile: "Kontrast 2021 miniature painting festival"
+date: 2021-11-24 16:33:00 +0100
+desc: A report from first polish miniature painting contest since covid started
+thumb: http://drive.google.com/uc?export=view&id=1Pa2NZrkDTyUR0QaDK5dnoo8ER9EGDrvx
+comments: True
+---
+
+# What was Kontrast 2021?
+Kontrast 2021 took place at 20-21 Nov 2021 in Warsaw, in a new building belonging to Warsaw Ursynow City Hall.
+Main event was of course miniature painting contest, split between master & standard categories, but there were a lot of other activities:
+- speedpainting contest
+- painting demos by Matteo di Diomede from Mindwork Games & Michal 'Lan' Pisarski
+- ad hoc afterparty in nearby bar
+- concert by Weljar
+- painting workshop for children
+- wargaming presentations
+- shopping area (Neko, Mindworks - they brought their original boxarts!, other brands)
+
+# Thank you!
+First of all, massive thanks to all people who made it possible:
+Organiser Michal Maslowski from https://miniaturenightpainting.com/, staff from Warsaw Ursynow City Hall, volunteers that handled the figures acceptance, and awesome judges:
+Krzysztof Kobalczyk, Natalia Oracz, Ana Machowska, Michal 'Lan' Pisarski, Katarzyna 'KAHA' Gorska, also speedpainting judges: Jakub Malysa, Jaroslaw 'Camelson' Drabek, Michal 'Mahon' Machowski and everyone else involved. Finally big kudos to awesome ambient/folk band Weljar <https://open.spotify.com/artist/0eFOFPv49q45GhGvv6074f> who did a very atmospheric music performance. I also had a chance to meet new people, and to chat with the ones I haven't had contact for a long time, this was priceless, especially taking into consideration the times we live in.   
+This was the best polish miniature painting event I've ever been to.
+
+# Why it was awesome
+Simple: quality & amount (almost 500) of works, competitors from outside of Poland, networking. 
+But let's get to brightest points for me, at least organisation-wise, so improvements over Hussar miniature painting competition that was held in Poland for many years.
+The category split between standard and master encourages everyone to bring their works, and I think this is the way to go (Hussar implemented it in last X edition). Also, the medal system worked like in most european competitions, meaning the judges could grant multiple bronze/silver/golds instead of looking for flaws in comparable works. I feel this encourages braver painting & allows for a more diverse style. Getting to the judges, they are extremely skilled painters, recognized internationally, so our works were in good hands and we could be sure they will make good decitions. Having their works being displayed was an awesome idea. 
+Works registration process was streamlined & done beforehand via google forms, with a hard timeline. This got rid of stacks of paper that everyone had to fill up, and sped up the turning-in process to just finding a numbered sticker, gluing it to your plinth, and handling the model to the staff. Someone suggested to have a possibility to enter without registration (to have some pool of wildcard places with stickers), but come on, such competition is something you plan ahead and I don't think such corner cases will ever happen.
+Last point: I think the social media side of the event was handled good - there was a lot of buzz in the internet, so I think everyone knew this event is happening. There was even a live transmission of Weljar concert <link> & awards ceremony <link>!
+
+# Master category winners + manufacturer awards
+Taken from (link to transmission). You 
+TODO
+
+# My personal favourites
+TODO
+- diorama neko
+- sf piotra czajki
+- mihauszowa osa, mihauszowa sf, mihauszowa baba na wilku
+- kp minis
+- monstroysowy sf large
+- oddzial typa z cursed city
+- roglandowy large fantasy
+
+# Now, onto random ideas & critique
+Some of it are mine, some of it I've heard from different people.
+- there is no official list of winners, no official photos... will there be any anytime soon? I don't know who got honorable mentions as they were handed out at model collection after competition. 
+- Primarchs both in small & large master sf, nurgle demon tank in master small sf. EXACTLY the same models ending up in different categories. Looking at you Creepytables Cozy... most of people in polish minipainting community know what model was painted during workshops, perhaps it's worth to know which category it should end in beforehand? General solution could be a review of contestant-provided category, done after all participants registered via internet, a couple of days before the competition, done by the judges. To facitiate this, there could be a place for pasting a link to manufacturers web store during registration. Perhaps a clear guideline for the model take-in staff, with some examples, could be enough.
+- I've heard voices that perhaps it would be good to split the categories between pairs of judges to speed-up the judging, but I'm against it. Judging almost 500 works for 9 hours in 5 people must have been pretty hardcore, but having 5 great painters doing it ensures great discussions and a balance between different painting approaches. Perhaps a better approach would be to include more judges, but split them between master & standard? 
+- paiting demos were too long. 1.5h would be perfect. 
+- speed painting comp lost some flair without live-commentary. It should happen on stage!
+- davinci as a partner, their maestro brushes leaflets laying on a front desk, when you can't buy them. Actually, there were no brushes to buy available during Kontrast
+- move standard to totally separate cabinets in other space, not having them in the same cabinet but below master 
+- some works did not fit the cabinets. Have contestants have an option to declare total height (in large/warmachine categories) during web registration to give organiser a chance to prepare beforehand
+- mixing standard/master categories during award ceremony. Why not do a speedpainting, junior, standard, manufacturer, master to avoid confusion?
+- place & time of before & afterparty, preparing a place for it beforehand - during registration contestants could optionally mark they want to take part in it. Some restaurant reservation fee collection before the contest?    
+
+# Kontrast 2022
+There are awesome plans - Katarzyna 'KAHA' Gorska & Francesco Farabi demos, Kimera arriving... It will happen in june 2022, probably in the same spot in Warsaw, you have to be there!
