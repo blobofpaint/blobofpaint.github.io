@@ -1,0 +1,34 @@
+---
+layout: post
+tile: "Neo-Tokyo Yawa ready"
+date: 2022-06-26 20:21:00 +0200
+desc: Sci-fi madness from Neko Galaxy
+thumb: http://drive.google.com/uc?export=view&id=TODO
+comments: True
+---
+
+![1](http://drive.google.com/uc?export=view&id=1VUqSRNupbDSoWI-34tIPaPssNJpWBsmU)
+
+Since seeing the renders of this neko galaxy miniature for the first time I knew I wanted to paint it badly. The miniature seemed composed very nicely, and contained two things that I like to paint the most: female skin & NMM. Two versions I've seen impacted my choices in some way, one by (Steve Garcia)[https://www.puttyandpaint.com/projects/34622], and the other one by (David Arroba)[https://www.puttyandpaint.com/projects/34616]. Both used similar tones for the monobike, and a nice backdrop. I wanted to make something different than a simple backdrop to differentiate from them, and since I had some experience with technical-style bases when doing the traitor ogryn, I've decided to go with a base in this style. I think I also like these kind of bases because they remind me of albums with cross-cuts of ships/tanks I loved to browse in my childhood. Since I wanted a striking main color, I've decided to go with red, on both the bike & the girl. The base was meant to be more desaturated to not steal the thunder from amazing sculpt. I also new I wanted to use two different temperature light & achieve an illustration-like look I love in miniatures. 
+
+When doing something complex, nowadays I tend to start with black primer, checking different light sources placement using some small lamps, preshading with white ink according to those sources, and tinting them with inks to see how the figure works under the different coloured light. This is how it worked, I used these photos as a reference later when painting the model: 
+
+![1](http://drive.google.com/uc?export=view&id=1xz-GjTcj9qT1nX_bA6BW0o4CLo8PzcCg)
+![2](http://drive.google.com/uc?export=view&id=1xyqNnI9GLv4eelGdCwheCPYqbTLFxE7p)
+
+After that, I've painted yawa separately from the bike, sometimes placing her on the bike to see if it matches the planned light direction from photos. I hadn't had a any issues, used some paints from nocturna flesh sets, adding in kimera blue/warm yellow+orange to tint the colours as needed. The new thing I tried was to use some inks on her hair to get some different, glossier finish of them. The bike was painted next, sketching the lights with white before adding colours & smoothing. After gluing the two together, I went on painting the base. I knew I wanted a dark bottom with strong light on half of the top. Drop shadow from the leg was added because I thought it will look cool & fill up some empty space. I've also spent a day wondering how to fill the rest of space, after some online discussions I went with katakana letters 'ya-wa'. 
+
+![1](http://drive.google.com/uc?export=view&id=1VUqSRNupbDSoWI-34tIPaPssNJpWBsmU)
+![2](http://drive.google.com/uc?export=view&id=1fUM5O9h5bV-eVEVjIjF-5_TBngHm2R2T)
+![3](http://drive.google.com/uc?export=view&id=16OSW_WMvMzAdQdBBd43RG_AYpTSGozSZ)
+![4](http://drive.google.com/uc?export=view&id=16OSW_WMvMzAdQdBBd43RG_AYpTSGozSZ)
+![5](http://drive.google.com/uc?export=view&id=1FvCdx8QzXBQJTQchwpizwJcM-6juBal0)
+![6](http://drive.google.com/uc?export=view&id=1iRHZcn_OKbEEww-ApqQu5JuwBZNDXQpD)
+![7](http://drive.google.com/uc?export=view&id=1A6UC_VxwOqIRdVpyx_dytIOxI9PzCikC)
+
+I'm quite happy how the whole project looks, it managed to get a gold in kontrast 2022 sci-fi large masters category.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+Cheers!
