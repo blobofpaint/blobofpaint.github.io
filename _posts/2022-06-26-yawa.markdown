@@ -3,7 +3,7 @@ layout: post
 tile: "Neo-Tokyo Yawa ready"
 date: 2022-06-26 20:21:00 +0200
 desc: Sci-fi madness from Neko Galaxy
-thumb: http://drive.google.com/uc?export=view&id=TODO
+thumb: http://drive.google.com/uc?export=view&id=1VUqSRNupbDSoWI-34tIPaPssNJpWBsmU
 comments: True
 ---
 
